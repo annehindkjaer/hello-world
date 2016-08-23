@@ -1,4 +1,4 @@
 # hello-world
 github prøve
 
-vi prøver lige
+dette er en ny prøve for at se om det andet slettes
